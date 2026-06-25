@@ -343,3 +343,8 @@ assets/gen_typing_gif.py
 !/jumpserver/
 !/jumpserver/agent-harness/
 !/cli_anything/jumpserver/
+config.bat
+node_modules
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
